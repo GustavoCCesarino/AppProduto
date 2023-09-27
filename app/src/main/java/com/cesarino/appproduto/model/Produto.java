@@ -1,4 +1,4 @@
-package com.cesarino.appproduto;
+package com.cesarino.appproduto.model;
 
 public class Produto {
     public int id;
